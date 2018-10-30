@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseToDataDictionary", "DatabaseToDataDictionary\DatabaseToDataDictionary.csproj", "{A136C758-E67D-4414-B55A-428F87A6AD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A136C758-E67D-4414-B55A-428F87A6AD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A136C758-E67D-4414-B55A-428F87A6AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A136C758-E67D-4414-B55A-428F87A6AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A136C758-E67D-4414-B55A-428F87A6AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0945AAA3-5F21-499A-A5E5-54C9B8DCD459}
+	EndGlobalSection
+EndGlobal
